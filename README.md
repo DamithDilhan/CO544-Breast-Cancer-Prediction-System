@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CO544 Group 09
 #  Breast Cancer Prediction with Machine Learning 
 
@@ -48,7 +49,6 @@ in every file
 ```
 DATA_PATH = os.path.join(path, "../data/dataR2.csv")
 ``` 
-
 
 
 
