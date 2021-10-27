@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CO544 Group 09
 #  Breast Cancer Prediction with Machine Learning 
 
